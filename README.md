@@ -15,8 +15,8 @@ The system consists of: RESTful API + Web client app + Desktop client app + Andr
   - https://github.com/nakov/ContactBook – ContactBook RESTful API and Web client app
   - https://github.com/nakov/ContactBook-DesktopClient – ContactBook desktop app for Windows
   - https://github.com/nakov/ContactBook-AndroidClient – ContactBook mobile app for Android
-  - Live demo: https://contactbook.nakov.repl.co
-  - Live code: https://repl.it/@nakov/contactbook
+  - Live demo: https://samplecontactbook.zhivkozhelqzkov.repl.co
+  - Live code: https://repl.it/@ZhivkoZhelqzkov/SampleContactBook
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/17418619/110242850-892dcc00-7f60-11eb-8126-45f9385e05bd.png)
